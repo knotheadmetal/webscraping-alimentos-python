@@ -1,0 +1,39 @@
+RELATÓRIO DE ANÁLISE DE PREÇOS DE ALIMENTOS BÁSICOS
+============================================================
+
+RESUMO EXECUTIVO:
+- Total de produtos analisados: 70
+- Supermercados comparados: Carrefour, Extrabom
+- Categorias analisadas: Arroz, Feijão, Leite, Carne, Pão, Óleo, Ovos
+
+ANÁLISE POR CATEGORIA:
+           Média  Menor_Preço  Maior_Preço  Desvio_Padrão  Quantidade
+Categoria                                                            
+Arroz      19.29         6.99        31.99           8.38          10
+Carne      40.99        28.99        59.99          10.59          10
+Feijão      5.85         4.99         6.79           0.60          10
+Leite       5.17         4.79         5.49           0.21          10
+Ovos       11.44         8.49        15.99           2.71          10
+Pão         9.19         5.99        12.99           2.28          10
+Óleo       10.04         7.49        12.99           2.06          10
+
+ANÁLISE POR SUPERMERCADO:
+              Preço_Médio  Menor_Preço  Maior_Preço  Quantidade_Produtos
+Supermercado                                                            
+Carrefour           15.10         4.99        59.99                   35
+Extrabom            14.03         4.79        57.99                   35
+
+OPORTUNIDADES DE ECONOMIA:
+Categoria Mais_Barato  Preço_Médio_Menor Mais_Caro  Preço_Médio_Maior  Economia_Potencial  Economia_Percentual
+    Arroz    Extrabom              16.59 Carrefour              21.99                5.40                 24.6
+   Feijão   Carrefour               5.79  Extrabom               5.91                0.12                  2.0
+    Leite    Extrabom               5.07 Carrefour               5.27                0.20                  3.8
+    Carne    Extrabom              40.39 Carrefour              41.59                1.20                  2.9
+      Pão   Carrefour               9.19 Carrefour               9.19                0.00                  0.0
+     Óleo    Extrabom               9.89 Carrefour              10.19                0.30                  2.9
+     Ovos    Extrabom              11.19 Carrefour              11.69                0.50                  4.3
+
+CONCLUSÕES:
+Este projeto demonstra como o web scraping pode ser usado para promover
+transparência de preços e ajudar consumidores a tomar decisões mais
+informadas sobre suas compras de alimentos básicos.
