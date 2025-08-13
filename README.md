@@ -1,6 +1,6 @@
 # Projeto de Comparação de Preços de Alimentos Básicos
 
-## Introdução
+## Introdução 
 
 Este projeto tem como objetivo principal coletar e comparar os preços de alimentos básicos em diferentes supermercados online. Utilizando técnicas de web scraping, buscamos identificar variações significativas de preços para empoderar os consumidores com informações valiosas, permitindo-lhes tomar decisões de compra mais informadas e econômicas.
 
